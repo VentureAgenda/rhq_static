@@ -1,0 +1,30 @@
+{
+	"title" : "Key Challenges in KYC",
+	"challenges" :[
+		{
+			"title": "Data",
+			"description": "Despite being a fundamental requirement for KYC remediation, businesses often find it difficult to access basic data, hampering their ability to prioritise high-risk customers for refresh.",
+			"value": "98"
+		},
+		{
+			"title": "Systems",
+			"description": "The businesses most heavily impacted by KYC and AML regulations typically have mulitple onboarding systems, many legacy and not actively supported, resulting in partial data collection and inefficiencies in remediation workflow.",
+			"value": "91"
+		},
+		{
+			"title": "Resource",
+			"description": "Manual remediation and KYC refresh is time-consuming and resource-instense, requiring specialist skills and experience. Training and retaining the knowledge capital in these key individuals presents a significant challenge in today's market.",
+			"value": "86"
+		},
+		{
+			"title": "Process",
+			"description": "The processes that underpin manual remediation are difficult to govern and do not scale to meet the demands of the global regulatory landscape. As firms are unable to rely on regulators for clear guidance, many attempt the remediating everything - this results in time wasted on low-risk data whilst high-risk factors remain unseen.",
+			"value": "74"
+		},
+		{
+			"title": "Policy and Standards",
+			"description": "Global variability in regualtory requirements, and a constant state of change, presents sizable commercial and reputational risks. The lack of direction from the regulators simply adds to the already challenging state of KYC remediation.",
+			"value": "54"
+		}
+	]
+}

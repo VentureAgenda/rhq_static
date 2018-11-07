@@ -1,0 +1,20 @@
+{
+	"title" : "Driving value and efficiency",
+	"experience" : [
+		{
+			"stage" : "Client Onboarding",
+			"title" : "Modern and flexible",
+			"description" : "Ensure that you capture the right information at the right time to streamline future remediation efforts. Our modern digital platform offers the power and flexibility required to adapt to the changing demands of policy and regulation."
+		},
+		{
+			"stage" : "Remediation",
+			"title" : "Automated and risk-based",
+			"description" : "Maximise the efficiency gains offered by intelligent automation and technology, with risk-based controls to ensure that red-flag cases are identified and escalated according the the risk appetite of your organisation."
+		},
+		{
+			"stage": "Review and Refresh",
+			"title": "Accelerated and simplified",
+			"description": "RemediationHQ delivers a single source of truth for your ongoing remediation cycle. We deliver great efficiency gains through best-in-class user experience, integrated data feeds, and smart automation."
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"title" : "Features & Benefits",
+	"services" : [
+		{
+			"icon" : "plug",
+			"title" : "Data integration",
+			"description" : "Integrating a wide-ranging set of external data feeds, covering all AML, KYC and due diligence checks, ensures that you're notified of any red flag risks."
+		},
+		{
+			"icon" : "magic",
+			"title" : "Smart automation",
+			"description" : "Automating the on-boarding and escalation process of low, medium and high-risk customers helps you to drive efficiency and reduce error-prone manual work."
+		},
+		{
+			"icon": "chart-pie",
+			"title": "Risk analysis",
+			"description": "Evidence-based analysis of a subject (individual and/or company) allows the identification of any undue regulatory, compliance or professional risks that you and your business may be exposed to."
+		},
+		{
+			"icon": "fingerprint",
+			"title": "Accelerate authentication",
+			"description": "Easily authenticate the information held against individuals, trusts, businesses and corporations."
+		},
+		{
+			"icon": "check-double",
+			"title": "Repeatable workflow",
+			"description": "Preset workflow using automatically populated data fields ensures that handlers complete remediation tasks in a consistent and repeatable manner."
+		},
+		{
+			"icon": "database",
+			"title": "Single point-of-truth",
+			"description": "Our platform empowers businesses to streamline, manage, remediate and codify customer data and risk in a single digital solution."
+		}
+	]
+}
